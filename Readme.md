@@ -242,6 +242,11 @@ java -cp ".:out:mysql-connector-java-8.x.x.jar" railway.Main
 
 ---
 
+Githut Repository Link:
+
+Youtube Video link:
+https://youtu.be/d7C3u7Apy9U
+
 ## Known Limitations 
 - Offline system only (no web/cloud)
 - Basic UI (Java Swing)

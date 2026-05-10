@@ -304,6 +304,13 @@ javac -version
 | bookings   | Ticket bookings with status        |
 
 ---
+Github Repository Link:
+https://github.com/muhammad-ali-hyder/Railway-Management-System
+
+
+Youtube Video link:
+https://youtu.be/d7C3u7Apy9U
+
 
 ## Known Limitations 
 - Offline system only (no web/cloud)

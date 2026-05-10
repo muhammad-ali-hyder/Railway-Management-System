@@ -242,8 +242,8 @@ java -cp ".:out:mysql-connector-java-8.x.x.jar" railway.Main
 
 ---
 
-Githut Repository Link:
-
+Github Repository Link:
+https://github.com/muhammad-ali-hyder/Railway-Management-System
 Youtube Video link:
 https://youtu.be/d7C3u7Apy9U
 
